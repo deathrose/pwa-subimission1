@@ -1,0 +1,17 @@
+{
+    "name": "Wonderland Apps",
+    "short_name": "Wonderland",
+    "description": "Aplikasi Dunia Ajaib",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f50057",
+    "theme_color": "#f50057",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+
