@@ -12,6 +12,7 @@ var urlsToCache = [
   "/js/nav.js",
   "/icon.png",
   "/manifest.json",
+  "/favicon.ico",
   "/img/3826.jpg",
   "/img/pp.jpg",
   "/img/undraw_be_the_hero_ssr2.png",
